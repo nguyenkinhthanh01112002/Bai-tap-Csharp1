@@ -1,0 +1,15 @@
+D:\C#CanBan\AssignmentGiaiDoan1\bin\Debug\net7.0\AssignmentGiaiDoan1.exe
+D:\C#CanBan\AssignmentGiaiDoan1\bin\Debug\net7.0\AssignmentGiaiDoan1.deps.json
+D:\C#CanBan\AssignmentGiaiDoan1\bin\Debug\net7.0\AssignmentGiaiDoan1.runtimeconfig.json
+D:\C#CanBan\AssignmentGiaiDoan1\bin\Debug\net7.0\AssignmentGiaiDoan1.dll
+D:\C#CanBan\AssignmentGiaiDoan1\bin\Debug\net7.0\AssignmentGiaiDoan1.pdb
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\AssignmentGiaiDoan1.csproj.AssemblyReference.cache
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\AssignmentGiaiDoan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\AssignmentGiaiDoan1.AssemblyInfoInputs.cache
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\AssignmentGiaiDoan1.AssemblyInfo.cs
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\AssignmentGiaiDoan1.csproj.CoreCompileInputs.cache
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\AssignmentGiaiDoan1.dll
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\refint\AssignmentGiaiDoan1.dll
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\AssignmentGiaiDoan1.pdb
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\AssignmentGiaiDoan1.genruntimeconfig.cache
+D:\C#CanBan\AssignmentGiaiDoan1\obj\Debug\net7.0\ref\AssignmentGiaiDoan1.dll
